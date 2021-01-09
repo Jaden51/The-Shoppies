@@ -1,6 +1,6 @@
 # The Shoppies - Shopify's Front-end developper Intern Challenge
 
-The project is deployed at ...
+The project is deployed at https://nostalgic-thompson-1b7ec3.netlify.app
 
 ## Overview
 
